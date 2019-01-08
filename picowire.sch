@@ -1,14 +1,15 @@
 EESchema Schematic File Version 4
+LIBS:picowire-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "PicoWire"
+Date "2018-10-17"
+Rev "1"
+Comp "REAL-TIME CONSULTING"
+Comment1 "Headphone amplifier"
 Comment2 ""
 Comment3 ""
 Comment4 ""
